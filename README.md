@@ -2,7 +2,7 @@
 
 
 
-<img src="Img\banner-m.png" alt="banner" style="zoom: 50%;" />
+<img src="Img\banner-m.png" alt="banner" />
 
 
 
@@ -18,7 +18,7 @@
 
 - Enable it on Battery Management of App Info
 
-<img src="FAQ\unexpected_close\app_detail_info.png" alt="app_detail_info" style="zoom:50%;" />
+<img src="FAQ\unexpected_close\app_detail_info.png" alt="app_detail_info"  />
 
 - Follow guidance of "Keep EP Alive" on the app. 
 
@@ -50,11 +50,11 @@ Could try following steps:
 
 1) Go to App Info of Eye Protector
 
-<img src="D:\MyDocuments\EyePro\Operation\EyeProGit\FAQ\show_noti\app_info_noti_block.jpg" alt="app_info_noti_block" style="zoom:50%;" />
+<img src="FAQ\show_noti\app_info_noti_block.jpg" alt="app_info_noti_block" style="zoom:50%;" />
 
 2) Go  to  App Notificatoins page
 
-<img src="D:\MyDocuments\EyePro\Operation\EyeProGit\FAQ\show_noti\app_notifications.png" alt="app_notifications" style="zoom:50%;" />
+<img src="FAQ\show_noti\app_notifications.png" alt="app_notifications" style="zoom:50%;" />
 
 3) Enable option of "Show notifications"
 
@@ -64,4 +64,4 @@ Try to change the color or adjust the transparency or restart Eye Protector.
 
 Then we can see the notification of Eye Protector.
 
-<img src="D:\MyDocuments\EyePro\Operation\EyeProGit\FAQ\show_noti\notification.png" alt="notification" style="zoom:50%;" />
+<img src="FAQ\show_noti\notification.png" alt="notification" style="zoom:50%;" />
