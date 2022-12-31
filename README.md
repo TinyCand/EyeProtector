@@ -35,16 +35,33 @@
 Could try following steps:
 1)  Go to App info of Eye Protector > Battery, enable "Allow background activity"
 
-<img src="FAQ\unexpected_close\app_detail_info.png" alt="app_detail_info" style="zoom:50%;" />
+<img src="FAQ\unexpected_close\app_detail_info.png" alt="app_detail_info"/>
 
 
 
 2)  Go to Eye Protector >  Settings, enable "Scheduled"
     Then Eye Protector would auto work in your specified time.
 
-<img src="FAQ\not_auto_start\ep_setting_scheduled.png" alt="ep_setting_scheduled" style="zoom:50%;" />
+<img src="FAQ\not_auto_start\ep_setting_scheduled.png" alt="ep_setting_scheduled">
 
 
 
-### 3. Notification
+### 3. How to show the notification of Eye Protector?
 
+1) Go to App Info of Eye Protector
+
+<img src="D:\MyDocuments\EyePro\Operation\EyeProGit\FAQ\show_noti\app_info_noti_block.jpg" alt="app_info_noti_block" style="zoom:50%;" />
+
+2) Go  to  App Notificatoins page
+
+<img src="D:\MyDocuments\EyePro\Operation\EyeProGit\FAQ\show_noti\app_notifications.png" alt="app_notifications" style="zoom:50%;" />
+
+3) Enable option of "Show notifications"
+
+4) Back to Eye Protector
+
+Try to change the color or adjust the transparency or restart Eye Protector.
+
+Then we can see the notification of Eye Protector.
+
+<img src="D:\MyDocuments\EyePro\Operation\EyeProGit\FAQ\show_noti\notification.png" alt="notification" style="zoom:50%;" />
