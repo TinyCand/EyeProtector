@@ -65,3 +65,29 @@ Try to change the color or adjust the transparency or restart Eye Protector.
 Then we can see the notification of Eye Protector.
 
 <img src="FAQ\show_noti\notification.png" alt="notification" style="zoom:50%;" />
+
+
+
+### 4. Need an on-off button in the notification bar?
+
+1) Unfold the system's quick panel. Then tap the 3-dots button.
+
+<img src="FAQ\QuickPanel\step1_quick_panel.jpg" alt="Unfold Quick Panel" style="zoom:50%;" />
+
+
+
+2) Tap "Button order".
+
+<img src="FAQ\QuickPanel\step2_tap_botton_order.jpg" alt="Unfold Quick Panel" style="zoom:50%;" />
+
+3) On this page, scroll and find Eye Protector's logo.
+
+<img src="FAQ\QuickPanel\step3_edit_page.jpg" alt="Unfold Quick Panel" style="zoom:50%;" />
+
+4) On the same page, drag Eye Protector's logo to where you wanna.
+
+<img src="FAQ\QuickPanel\step4_drag.png" alt="Unfold Quick Panel" style="zoom:50%;" />
+
+5) Complete & return,  then you could quickly turn on/off Eye Protector from system‘s quick panel.
+
+<img src="FAQ\QuickPanel\step5_complete.jpg" alt="Unfold Quick Panel" style="zoom:50%;" />
